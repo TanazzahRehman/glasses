@@ -1,0 +1,25 @@
+# OBJ Material Export by Luxion KeyShot
+
+newmtl Part1:color:243:254:177
+Kd 0.952941 0.996078 0.694118
+
+newmtl Aluminum Polished #1
+Kd 0.792157 0.819608 0.933333
+
+newmtl Metal Polished Black #1
+Kd 0 0 0
+
+newmtl Metal Polished Black #1
+Kd 0 0 0
+
+newmtl Aluminum Polished #1
+Kd 0.792157 0.819608 0.933333
+
+newmtl Aluminum Polished #2
+Kd 0.792157 0.819608 0.933333
+
+newmtl Symmetry of Stick:color:128:0:0
+Kd 0.501961 0 0
+
+newmtl Metal Polished Black #2
+Kd 0 0 0

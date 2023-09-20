@@ -1,0 +1,7 @@
+# OBJ Material Export by Luxion KeyShot
+
+newmtl glasses 5:color:210:210:255
+Kd 0.823529 0.823529 1
+
+newmtl glasses 5:color:94:94:94
+Kd 0.368627 0.368627 0.368627
